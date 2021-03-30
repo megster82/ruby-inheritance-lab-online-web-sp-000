@@ -6,7 +6,7 @@ def initialize
   @knowledge = []
 end 
 
-
+de
 
   
   
